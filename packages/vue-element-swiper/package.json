@@ -1,5 +1,5 @@
 {
-  "name": "vue-element-swiper",
+  "name": "@xsfront/vue-element-swiper",
   "version": "0.0.1",
   "description": "swiper based on vue2 & element-ui",
   "keywords": [
