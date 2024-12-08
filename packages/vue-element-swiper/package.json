@@ -11,6 +11,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -20,5 +23,6 @@
   ],
   "scripts": {
     "test": "node ./__tests__/vue-element-swiper.test.js"
-  }
+  },
+  "gitHead": "e759bc38601b836b3a03353683dddb2771def755"
 }
